@@ -1,2 +1,7 @@
 # Test-Hackathon2025
-Luc Digit Tech
+
+function direBonjour(nom) { 
+    return "Bonjour, " + nom + " !"; 
+} 
+console.log(direBonjour("Alice")); // Affiche "Bonjour, Alice !" 
+
